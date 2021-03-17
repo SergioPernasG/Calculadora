@@ -62,7 +62,7 @@ public class CalculadoraJava {
      * 
      * @return
      */
-    public int multiplica(){
+    public int multiplicacion(){
         int result=num1*num2;
         return result;
     }
