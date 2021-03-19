@@ -13,6 +13,8 @@ public class CalculadoraJava {
     //rama1
     //PRUEBA DE GITHUB CON COMANDOS EN RAMA1
     //SEGUNDA PRUEBA PARA HACER PULL
+    //COMENTARIO DESDE COMANDOS PARA HACER EL SEGUNDO PUSH
+    //AHORA ESTA ES LA RAMA2
     //Atributos
     
     /**
@@ -78,4 +80,5 @@ public class CalculadoraJava {
         int result=num1/num2;
         return result;
     }
+
 }
